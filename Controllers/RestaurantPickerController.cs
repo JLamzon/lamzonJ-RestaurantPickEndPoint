@@ -65,7 +65,7 @@ public class RestaurantPickerController : ControllerBase
         }
         else
         {
-            return userPick;
+            return $"{userPick} is not a valid input";
         }
     }
 }

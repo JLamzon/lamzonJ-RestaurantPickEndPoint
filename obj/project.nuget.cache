@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+keHBI/v18hQc758NZclxf2yxb7oBTBbpUp1+1DiyJTP9/+Fg7+Ei2AUteLVbfXaGYm3JHpbA/H/JXctCZV2A==",
+  "success": true,
+  "projectFilePath": "/Users/user/Documents/CodeStack/Class/LVL1/LVL1_Assignments/lamzonJ-RestaurantPickEndPoint/lamzonJ-RestaurantPick.csproj",
+  "expectedPackageFiles": [
+    "/Users/user/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/user/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/user/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

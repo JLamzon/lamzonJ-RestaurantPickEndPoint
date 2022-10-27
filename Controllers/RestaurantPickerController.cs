@@ -1,6 +1,7 @@
 //Jessie Lamzon
 //10-26-22
 //Restaurant Picker End Point
+//https://localhost:7087/restaurantpicker/foodpicker/*enter type of food*
 //Peer review:
 
 
@@ -65,7 +66,7 @@ public class RestaurantPickerController : ControllerBase
         }
         else
         {
-            return $"{userPick} is not a valid input";
+            return $"Please choose: Mexican | Thai | Chinese | American | Random";
         }
     }
 }
